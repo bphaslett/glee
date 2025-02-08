@@ -1,0 +1,4 @@
+#! /usr/bin/dh-exec
+
+usr/lib/${DEB_HOST_MULTIARCH}/libglee.a usr/lib/${DEB_HOST_MULTIARCH}/libGLee.a
+usr/include/GL/GLee.h usr/include/GLee.h
